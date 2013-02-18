@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="http://actus.publika.fr/feed/" rel="self" type="application/rss+xml" />
+	<link>http://actus.publika.fr</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Feb 2013 16:17:00 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+		<item>
+		<title>Chez Publika : que du fait maison !</title>
+		<link>http://actus.publika.fr/2013/02/chez-publika-que-du-fait-maison/</link>
+		<comments>http://actus.publika.fr/2013/02/chez-publika-que-du-fait-maison/#comments</comments>
+		<pubDate>Fri, 15 Feb 2013 14:40:56 +0000</pubDate>
+		<dc:creator>Cindy</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=1170</guid>
+		<description><![CDATA[<p>On vous partage très souvent notre quotidien notamment nos moments conviviaux et épicuriens. Nombreux d’entre nous (enfin on l’avoue surtout Lionel, directeur associé de l’agence), aiment cuisiner et apporter des petits plats à leurs collègues. Mais savez-vous qu’à Publika il n’y a pas que la pâtisserie qui est maison ? Aujourd’hui, nous allons donc consacrer cet article à NOTRE CMS : le PubliPack ! Pour commencer, qu’est-ce qu’un CMS ? Nous n’irons pas plus loin que prendre la définition sur internet : « Un CMS (en français Système de gestion de contenu) est un logiciel disposant de fonctionnalités de publication et offrant en particulier une interface d&#8217;administration (back-office) permettant de concevoir, organiser et mettre à jour facilement un site internet ». Un CMS à la sauce Publika Lorsque l’on est novice la prise en main de son site internet peut vite être fastidieuse, on vous l’accorde ! Où est-ce que je peux modifier mes coordonnées, comment je fais pour ajouter une page, comment récupérer les adresses mails renseignées dans mes formulaires de contacts,&#8230; ? Autant de questions que vous vous êtes sûrement posées, non ? De l’autre côté, Publika s’est posée les mêmes questions mais à un autre niveau : comment puis-je répondre rapidement et exactement à toutes les demandes de nos clients ? La réponse a été vite trouvée : créons notre propre outil de création de site internet ! La recette du PubliPack Prenez une équipe de développeurs, d’intégrateurs, de graphistes, de webmarkteurs, de chef de projets et de commerciaux et enfermez-les dans une salle de réunion; Laissez-les lister toutes les demandes clients qu’ils ont pu recevoir ainsi que toutes leurs contraintes de travails. Note importante : Les demandes des webmarketeurs sont bien plus nombreuses que les demandes clients, au désespoir des développeurs Mélangez le tout et laisser les développeurs programmer tout ça &#160; Au final, obtenez un joli PubliPack qui évolue continuellement pour toujours s’adapter aux nouvelles technologies : Génération en un clic d’une page de texte, d’un formulaire ou encore d’une galerie d’images Un back-office optimisé pour la gestion d’un catalogue de produits, de catégories ou de clients; Un charte graphique automatiquement reprise sur tout nouvel ajout de pages Une passerelle entre les formulaires de contact et notre outil d’emailing pour se constituer automatiquement un carnet d’adresses; Optimisation automatique des pages pour minimiser le temps de chargement; Une optimisation du code et des outils pré-embarqués pour favoriser le référencement du site sur les moteurs de recherche; &#8230;. (Nous ne listerons pas tout sinon notre article ne finira jamais). &#160; Concrètement, allez-vous nous dire ? La cohésion de travail entre le service web, le service graphique et le service webmarketing permet de proposer côté client, un site internet facile à prendre en main qui permet une indépendance par rapport à son prestataire (avant toute prise en main, une formation est effectuée aux clients) et côté moteurs de recherche, un site internet qui peut se positionner premier sur des requêtes comme « agence de communication », « achat défiscalisation », « carte m2m », « vente residence tourisme »,&#8230; D’ailleurs, tout ce travail réalisé, depuis de nombreuses années, au niveau du Publipack a permis à Publika d&#8217;être labellisée JEI (Jeune entreprise innovante) et nous continuerons à l’améliorer d’année en année ! *Avant que le service web ne prenne le melon, nous tenons à préciser que ces positionnements ne sont possibles que grâce à un travail acharné des webmarketeurs de l’agence après mise en ligne du site !*. Mais pour mieux vous rendre compte des capacités de notre Publipack, la meilleure façon n’est-t-elle pas de le tester ?</p><p>L'article <a href="http://actus.publika.fr/2013/02/chez-publika-que-du-fait-maison/">Chez Publika : que du fait maison !</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p>On vous partage très souvent notre quotidien notamment nos moments conviviaux et épicuriens. Nombreux d’entre nous (enfin on l’avoue surtout Lionel, directeur associé de l’agence), aiment cuisiner et apporter des petits plats à leurs collègues. Mais savez-vous qu’à Publika il n’y a pas que la pâtisserie qui est maison ? Aujourd’hui, nous allons donc consacrer cet article à NOTRE CMS : le PubliPack !</p>
+<p><strong>Pour commencer, qu’est-ce qu’un CMS ? </strong></p>
+<p>Nous n’irons pas plus loin que prendre la définition sur internet : « Un CMS (en français Système de gestion de contenu) est un logiciel disposant de fonctionnalités de publication et offrant en particulier une interface d&rsquo;administration (back-office) permettant de concevoir, organiser et mettre à jour facilement un site internet ».</p>
+<p><strong>Un CMS à la sauce Publika</strong></p>
+<p>Lorsque l’on est novice la prise en main de son site internet peut vite être fastidieuse, on vous l’accorde ! Où est-ce que je peux modifier mes coordonnées, comment je fais pour ajouter une page, comment récupérer les adresses mails renseignées dans mes formulaires de contacts,&#8230; ? Autant de questions que vous vous êtes sûrement posées, non ?</p>
+<p>De l’autre côté, Publika s’est posée les mêmes questions mais à un autre niveau : comment puis-je répondre rapidement et exactement à toutes les demandes de nos clients ? La réponse a été vite trouvée : créons notre propre outil de création de site internet !</p>
+<p><strong>La recette du PubliPack </strong></p>
+<ul>
+<li>Prenez une équipe de développeurs, d’intégrateurs, de graphistes, de webmarkteurs, de chef de projets et de commerciaux et enfermez-les dans une salle de réunion;</li>
+<li>Laissez-les lister toutes les demandes clients qu’ils ont pu recevoir ainsi que toutes leurs contraintes de travails. Note importante : Les demandes des webmarketeurs sont bien plus nombreuses que les demandes clients, au désespoir des développeurs <img src='http://actus.publika.fr/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </li>
+<li>Mélangez le tout et laisser les développeurs programmer tout ça</li>
+</ul>
+<p>&nbsp;</p>
+<p>Au final, obtenez un joli PubliPack qui évolue continuellement pour toujours s’adapter aux nouvelles technologies :</p>
+<ul>
+<li>Génération en un clic d’une page de texte, d’un formulaire ou encore d’une galerie d’images</li>
+<li>Un back-office optimisé pour la gestion d’un catalogue de produits, de catégories ou de clients;</li>
+<li>Un charte graphique automatiquement reprise sur tout nouvel ajout de pages</li>
+<li>Une passerelle entre les formulaires de contact et notre outil d’emailing pour se constituer automatiquement un carnet d’adresses;</li>
+<li>Optimisation automatique des pages pour minimiser le temps de chargement;</li>
+<li>Une optimisation du code et des outils pré-embarqués pour favoriser le référencement du site sur les moteurs de recherche;</li>
+<li>&#8230;. (Nous ne listerons pas tout sinon notre article ne finira jamais).</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Concrètement, allez-vous nous dire ?</strong></p>
+<p>La cohésion de travail entre le service web, le service graphique et le service webmarketing permet de proposer côté client, un site internet facile à prendre en main qui permet une indépendance par rapport à son prestataire (avant toute prise en main, une formation est effectuée aux clients) et côté moteurs de recherche, un site internet qui peut se positionner premier sur des requêtes comme « agence de communication », « achat défiscalisation », « carte m2m », « vente residence tourisme »,&#8230;</p>
+<p>D’ailleurs, tout ce travail réalisé, depuis de nombreuses années, au niveau du Publipack a permis à Publika d&rsquo;être labellisée JEI (Jeune entreprise innovante) et nous continuerons à l’améliorer d’année en année ! *Avant que le service web ne prenne le melon, nous tenons à préciser que ces positionnements ne sont possibles que grâce à un travail acharné des webmarketeurs de l’agence après mise en ligne du site !*. Mais pour mieux vous rendre compte des capacités de notre Publipack, la meilleure façon n’est-t-elle pas de le tester ? <img src='http://actus.publika.fr/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+<p>L'article <a href="http://actus.publika.fr/2013/02/chez-publika-que-du-fait-maison/">Chez Publika : que du fait maison !</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2013/02/chez-publika-que-du-fait-maison/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Même avec le froid hivernal, la Publika Team ne se relâche pas</title>
+		<link>http://actus.publika.fr/2013/02/meme-avec-le-froid-hivernal-la-publika-team-ne-se-relache-pas/</link>
+		<comments>http://actus.publika.fr/2013/02/meme-avec-le-froid-hivernal-la-publika-team-ne-se-relache-pas/#comments</comments>
+		<pubDate>Fri, 15 Feb 2013 14:39:06 +0000</pubDate>
+		<dc:creator>Cindy</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=1189</guid>
+		<description><![CDATA[<p></p><p>L'article <a href="http://actus.publika.fr/2013/02/meme-avec-le-froid-hivernal-la-publika-team-ne-se-relache-pas/">Même avec le froid hivernal, la Publika Team ne se relâche pas</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p><img src="http://actus.publika.fr/wp-content/uploads/2013/02/chiffrecle.jpg" alt="" width="620" height="620" /></p>
+<p>L'article <a href="http://actus.publika.fr/2013/02/meme-avec-le-froid-hivernal-la-publika-team-ne-se-relache-pas/">Même avec le froid hivernal, la Publika Team ne se relâche pas</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2013/02/meme-avec-le-froid-hivernal-la-publika-team-ne-se-relache-pas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>2012 : Publika et les trophées de la communication</title>
+		<link>http://actus.publika.fr/2013/02/2012-publika-et-les-trophees-de-la-communication/</link>
+		<comments>http://actus.publika.fr/2013/02/2012-publika-et-les-trophees-de-la-communication/#comments</comments>
+		<pubDate>Fri, 15 Feb 2013 14:38:36 +0000</pubDate>
+		<dc:creator>Olivier</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=1177</guid>
+		<description><![CDATA[<p>Depuis 14 ans, Publika s’évertue à proposer à ses clients la meilleure communication possible, en étant à la fois innovante et adaptée aux objectifs exprimés par nos clients. Tout cela nous pousse au quotidien, mais nous avons tous ici, chacun à notre manière, une âme de compétiteur et la fierté du travail bien fait. J’ai ainsi décidé que notre agence devait se mesurer à d’autres grands noms de la communication afin d’évaluer concrètement nos capacités mais aussi nos points faibles pour nous permettre d’avancer encore et toujours. Alors quoi de mieux que de participer pour la première fois à un concours national : Les trophées de la Communication ? Les Trophées en bref Je vous résume rapidement ce que sont Les trophées de la communication. Il s’agit d’un concours national fêtant sa douzième année d’édition et ouverts à tous (service public ou secteur privé, du grand groupe à l&#8217;artisan, sphère culturelle ou monde industriel, du site internet corporate au site de e-commerce). Des intervenants aussi prestigieux qu’EDF, la ville de Paris et bien d’autres encore participent régulièrement à cette amicale compétition. L’organisation du concours est structurée autour d’un comité de sélection composé d’acteurs des métiers de la communication. 32 Catégories récompensent de manière assez large toute la palette des métiers de la communication. Les réalisations Internet sont évaluées selon plusieurs dizaines de critères, autour de 3 axes principaux : la qualité du graphisme, son ergonomie et son référencement. Apres mure réflexion de votre humble serviteur, j’ai donc présenté 5 projets, dans 5 catégories différentes : Site Internet pour le monde associatif : Abeille Sentinelle Site Internet pour les entreprises de – de 10 salariés : FYTEXIA Site Internet pour les entreprises de de 10 à 50 salariés : BE Promotion Site Internet pour les entreprises de de 50 à 100 salariés : Domaine de Massane Site Internet pour les entreprises de plus de 500 salariés : Odalys Patrimoine &#160; Le métier de Directeur commercial dans une agence de communication, quoique mes collègues en pensent, est parfois bien difficile ! Laissez-moi vous raconter mes déboires. Le 30 novembre, je me suis rendu, dans le très agréable cadre du Casino du Grau Du Roi. Au programme de ma soirée aux trophées : escalope de foie gras rôtie, tournedos de magret de canard et sa mousse de légumes, dôme et son coulis de fruit rouge… repas non seulement agréable aux papilles mais aussi aux yeux car entrecoupé d’un spectacle de danseuses orientales. (Vous comprenez mieux la difficulté de mon poste ?) Mais comme je suis profondément consciencieux malgré tout, j’ai ensuite assisté à la cérémonie de récompense des prix, en présence de M. Christian Bourquin, le président de la région Languedoc Roussillon. Toute l’équipe de Publika à ainsi vu son travail récompensé à travers l’obtention de 2 récompenses : Une très belle 2ième place pour le site Odalys Patrimoine Une très agréable 5ième place pour le site de Massane. &#160; Ces résultats nous ont rendus d’autant plus fiers que de prestigieuses agences nationales concourraient et qu&#8217;elles représentent une belle valorisation du travail au quotidien de l’ensemble de nos collaborateurs. Et maintenant je n’ai plus qu’une hâte : l’édition 2013 (et pas que pour le repas et le spectacle).</p><p>L'article <a href="http://actus.publika.fr/2013/02/2012-publika-et-les-trophees-de-la-communication/">2012 : Publika et les trophées de la communication</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/olivier/">Olivier</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p><em>Depuis 14 ans, Publika s’évertue à proposer à ses clients la meilleure communication possible, en étant à la fois innovante et adaptée aux objectifs exprimés par nos clients. Tout cela nous pousse au quotidien, mais nous avons tous ici, chacun à notre manière, une âme de compétiteur et la fierté du travail bien fait. </em></p>
+<p><em>J’ai ainsi décidé que notre agence devait se mesurer à d’autres grands noms de la communication afin d’évaluer concrètement nos capacités mais aussi nos points faibles pour nous permettre d’avancer encore et toujours. Alors quoi de mieux que de participer pour la première fois à un concours national : Les trophées de la Communication ?</em></p>
+<p><strong>Les Trophées en bref</strong></p>
+<p>Je vous résume rapidement ce que sont Les trophées de la communication. Il s’agit d’un concours national fêtant sa douzième année d’édition et ouverts à tous (service public ou secteur privé, du grand groupe à l&rsquo;artisan, sphère culturelle ou monde industriel, du site internet corporate au site de e-commerce). Des intervenants aussi prestigieux qu’EDF, la ville de Paris et bien d’autres encore participent régulièrement à cette amicale compétition.</p>
+<p>L’organisation du concours est structurée autour d’un comité de sélection composé d’acteurs des métiers de la communication. 32 Catégories récompensent de manière assez large toute la palette des métiers de la communication. Les réalisations Internet sont évaluées selon plusieurs dizaines de critères, autour de 3 axes principaux : la qualité du graphisme, son ergonomie et son référencement.</p>
+<p>Apres mure réflexion de votre humble serviteur, j’ai donc présenté 5 projets, dans 5 catégories différentes :</p>
+<ul>
+<li>Site Internet pour le monde associatif : <a title="Abeille Sentinelle" href="http://www.abeillesentinelle.net/" target="_blank">Abeille Sentinelle</a></li>
+<li>Site Internet pour les entreprises de – de 10 salariés : <a title="Fytexia" href="http://www.fytexia.com/" target="_blank">FYTEXIA</a></li>
+<li>Site Internet pour les entreprises de de 10 à 50 salariés : <a title="BE Promotion" href="http://www.be-promotions.com/" target="_blank">BE Promotion</a></li>
+<li>Site Internet pour les entreprises de de 50 à 100 salariés : <a title="Domaine de Massane" href="http://www.massane.com/" target="_blank">Domaine de Massane</a></li>
+<li>Site Internet pour les entreprises de plus de 500 salariés : <a title="Odalys Patrimoine" href="http://www.odalys-patrimoine.com/" target="_blank">Odalys Patrimoine</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>Le métier de Directeur commercial dans une agence de communication, quoique mes collègues en pensent, est parfois bien difficile ! Laissez-moi vous raconter mes déboires. Le 30 novembre, je me suis rendu, dans le très agréable cadre du Casino du Grau Du Roi.<br />
+Au programme de ma soirée aux trophées : escalope de foie gras rôtie, tournedos de magret de canard et sa mousse de légumes, dôme et son coulis de fruit rouge… repas non seulement agréable aux papilles mais aussi aux yeux car entrecoupé d’un spectacle de danseuses orientales. (Vous comprenez mieux la difficulté de mon poste ?)</p>
+<p>Mais comme je suis profondément consciencieux malgré tout, j’ai ensuite assisté à la cérémonie de récompense des prix, en présence de M. Christian Bourquin, le président de la région Languedoc Roussillon. Toute l’équipe de Publika à ainsi vu son travail récompensé à travers l’obtention de 2 récompenses :</p>
+<ul>
+<li>Une très belle 2ième place pour le site Odalys Patrimoine</li>
+<li>Une très agréable 5ième place pour le site de Massane.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Ces résultats nous ont rendus d’autant plus fiers que de prestigieuses agences nationales concourraient et qu&rsquo;elles représentent une belle valorisation du travail au quotidien de l’ensemble de nos collaborateurs. Et maintenant je n’ai plus qu’une hâte : l’édition 2013 (et pas que pour le repas et le spectacle).</p>
+<p>L'article <a href="http://actus.publika.fr/2013/02/2012-publika-et-les-trophees-de-la-communication/">2012 : Publika et les trophées de la communication</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/olivier/">Olivier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2013/02/2012-publika-et-les-trophees-de-la-communication/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>ENSEMBLE, EN ROUTE POUR 2013</title>
+		<link>http://actus.publika.fr/2013/01/ensemble-en-route-pour-2013/</link>
+		<comments>http://actus.publika.fr/2013/01/ensemble-en-route-pour-2013/#comments</comments>
+		<pubDate>Tue, 22 Jan 2013 15:24:08 +0000</pubDate>
+		<dc:creator>Cindy</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=1053</guid>
+		<description><![CDATA[<p>C’est avec un très grand plaisir que toute l’équipe Publika vous souhaite ses meilleurs voeux pour l’année 2013 ! Nous profitons également de ce moment pour remercier tous nos clients qui nous font confiance depuis plus de 12 ans L’année 2012 a été très riche en émotions pour notre agence : retour sur les faits mois par mois : Janvier : Nous avons commencé l’année en accueillant un nouvel intégrateur au sein du service web, Mathieu et en fêtant 3 anniversaires : Jérôme, David et Thomas Février : ce sont les locaux de l’agence qui ont fait peau neuve, tout le monde a mis la main à la pâte pour repeindre, redécorer et agrandir nos espaces de travail. Un moment qui a aussi permis de souder encore un peu plus l’équipe ! Février fût aussi le mois où Marc et Guillaume ont rejoint le service webmarketing ! Mars : Caroline, notre toute nouvelle graphiste prend ses marques au sein de l’équipe : c’est maintenant la parité dans le service graphique : 2 femmes VS 2 hommes ! C’est Charlotte qui était contente ! Avril/Mai : De nombreux nouveaux sites internet sont mis en ligne (Pousstronic, Cheval Assur,&#8230;) et nous accueillons Quentin, qui prend le poste de chef de projet du service web. Juin : Début Juin, Sacha, tout droit venue de Montréal rejoint le service commercial pour un stage et Cédric rejoint le service web ! L’équipe Publika ne cesse de s’agrandir Juillet/Août : C’est la période des vacances d’été mais ça ne chôme pas à Publika, les projets s’enchaînent pour notre plus grand plaisir. Septembre : C’est la rentrée pour notre équipe et nos clients. Face au développement de ces derniers mois, Arnaud rejoint le service web pour renforcer l’équipe de développeurs. Octobre : Nous sommes très fiers d’être nominés aux trophées de la com avec 5 de nos clients (Odalys Patrimoine, Fytexia, Buesa Esteve Promotion, Massane et Abeille Sentinelle) et aussi d’avoir obtenu 2 prix lors de cet évènement. Novembre : Ce mois-ci, nous avons fêté 3 anniversaire : Pauline, Regan et Olivier et le service webmarketing recherche de nouveaux collaborateurs. Décembre : Publika obtient le statut de Jeune Entreprise Innovante, un très beau cadeau de fin d’année pour toute l’équipe qui toute l’année donne le meilleur d’elle-même pour la satisfaction de ses clients mais aussi d’elle-même. Et puis quelques jours après cette nouvelle, Pauline rejoint le service graphique. D’agréables nouvelles pour bien finir l’année et passer de très bonnes fêtes.</p><p>L'article <a href="http://actus.publika.fr/2013/01/ensemble-en-route-pour-2013/">ENSEMBLE, EN ROUTE POUR 2013</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p><span style="font-size: 13px; line-height: 19px;">C’est avec un très grand plaisir que toute l’équipe Publika vous souhaite ses meilleurs voeux pour l’année 2013 ! Nous profitons également de ce moment pour remercier tous nos clients qui nous font confiance depuis plus de 12 ans <img src='http://actus.publika.fr/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </span></p>
+<p>L’année 2012 a été très riche en émotions pour notre agence : retour sur les faits mois par mois :</p>
+<p><strong>Janvier :</strong> Nous avons commencé l’année en accueillant un nouvel intégrateur au sein du service web, Mathieu et en fêtant 3 anniversaires : Jérôme, David et Thomas</p>
+<p><strong>Février :</strong> ce sont les locaux de l’agence qui ont fait peau neuve, tout le monde a mis la main à la pâte pour repeindre, redécorer et agrandir nos espaces de travail. Un moment qui a aussi permis de souder encore un peu plus l’équipe ! Février fût aussi le mois où Marc et Guillaume ont rejoint le service webmarketing !</p>
+<p><strong>Mars :</strong> Caroline, notre toute nouvelle graphiste prend ses marques au sein de l’équipe : c’est maintenant la parité dans le service graphique : 2 femmes VS 2 hommes ! C’est Charlotte qui était contente !</p>
+<p><strong>Avril/Mai :</strong> De nombreux nouveaux sites internet sont mis en ligne (Pousstronic, Cheval Assur,&#8230;) et nous accueillons Quentin, qui prend le poste de chef de projet du service web.</p>
+<p><strong>Juin :</strong> Début Juin, Sacha, tout droit venue de Montréal rejoint le service commercial pour un stage et Cédric rejoint le service web ! L’équipe Publika ne cesse de s’agrandir <img src='http://actus.publika.fr/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p><strong>Juillet/Août </strong>: C’est la période des vacances d’été mais ça ne chôme pas à Publika, les projets s’enchaînent pour notre plus grand plaisir.</p>
+<p><strong>Septembre :</strong> C’est la rentrée pour notre équipe et nos clients. Face au développement de ces derniers mois, Arnaud rejoint le service web pour renforcer l’équipe de développeurs.</p>
+<p><strong>Octobre :</strong> Nous sommes très fiers d’être nominés aux trophées de la com avec 5 de nos clients (Odalys Patrimoine, Fytexia, Buesa Esteve Promotion, Massane et Abeille Sentinelle) et aussi d’avoir obtenu 2 prix lors de cet évènement.</p>
+<p><strong>Novembre :</strong> Ce mois-ci, nous avons fêté 3 anniversaire : Pauline, Regan et Olivier et le service webmarketing recherche de nouveaux collaborateurs.</p>
+<p><strong>Décembre :</strong> Publika obtient le statut de<strong> Jeune Entreprise Innovante</strong>, un très beau cadeau de fin d’année pour toute l’équipe qui toute l’année donne le meilleur d’elle-même pour la satisfaction de ses clients mais aussi d’elle-même. Et puis quelques jours après cette nouvelle, Pauline rejoint le service graphique. D’agréables nouvelles pour bien finir l’année et passer de très bonnes fêtes.</p>
+<p>L'article <a href="http://actus.publika.fr/2013/01/ensemble-en-route-pour-2013/">ENSEMBLE, EN ROUTE POUR 2013</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2013/01/ensemble-en-route-pour-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>UNE COMMUNICATION GLOBALE POUR BOULANGERIE ANGE !</title>
+		<link>http://actus.publika.fr/2013/01/une-communication-globale-pour-boulangerie-ange/</link>
+		<comments>http://actus.publika.fr/2013/01/une-communication-globale-pour-boulangerie-ange/#comments</comments>
+		<pubDate>Tue, 22 Jan 2013 15:23:48 +0000</pubDate>
+		<dc:creator>Cindy</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=1068</guid>
+		<description><![CDATA[<p>Les boulangeries Ange, permettez-nous l’expression, poussent comme des petits pains ! En un an, ce ne sont pas moins d’une dizaine de nouvelles boulangeries qui ont ouvertes en France. Une ascension qui nous rend fiers car nous avons pu les accompagner dans ce parcours tout au long de cette année ! A ce jour, 19 boulangeries représentent la marque Ange aux 4 coins de la France. A notre premier contact, les boulangeries Ange n’étaient pas vraiment connues mais les choses ont bien changé ! Détaillons ce parcours à travers leur communication. La communication papier Notre collaboration a, tout d’abord, débuté avec l’harmonisation de leur charte graphique : choix d’un logo parmi plusieurs déjà existants, reprise du logo tampon,&#8230; Une fois tout établi, nous avons créé de nombreux flyers : flyers d’ouverture, flyers évènementiels pour, par exemple, la fête des mères, Noël ou encore l’Epiphanie, ainsi que des flyers de communication sur l’utilisation de la farine CRC « Culture et Ressources Contrôlées ». L’agence de communication Publika s’est aussi occupée de designer las boites à pizzas pour les mettre aux couleurs d’Ange mais aussi la création de sacs Ange à distribuer aux clients. Le site web Le point de départ de la communication internet des boulangeries Ange fut le site internet. Il était important qu’Ange prenne place sur la toile pour se faire connaître et améliorer sa visibilité. Leur site web est volontairement simple et épuré et ce ne sont pas leurs produits qui sont le plus mis en avant mais leurs engagements qui leur tiennent grandement à cœur ! Le slogan d’Ange : « Ange c’est 3 fois meilleur ! » Pourquoi ? Tout simplement parce qu’Ange tient à ce que tous ses produits soient meilleurs en goût, conçus dans le respect de l’environnement et de la santé de ses clients. On peut aussi retrouver, sur le site, un moteur de recherche basé sur la géolocalisation a été développé pour permettre aux internautes de trouver les boulangeries Ange proches de chez eux. Le référencement naturel Afin de travailler leur visibilité sur internet, tout un travail de référencement naturel est effectué sur le site web de Boulangerie Ange sur des requêtes correspondants à la localisation d’implantation des toutes les boulangeries de France. Le résultat ? En un an, le site web a augmenté son trafic de façon très croissante passant de moins de 1000 visites à plus de 4000 dont plus de 2/3 sont issues des moteurs de recherche. Les réseaux sociaux Un autre souhait des boulangeries Ange était de se rapprocher de ses clients, d’interagir avec eux, connaître leurs avis,&#8230; Pour se faire, nous avons donc mis en place une stratégie réseaux sociaux sur Facebook et Dismoioù. A ce jour, une communauté de plus de 1000 fans s’est construite sur Facebook avec des interactions quotidiennes (j’aime, commentaires, partages,&#8230;). Les fans peuvent suivre toute l’actualité de la marque : nouvelles ouvertures, anniversaire, promotions, conseils culinaires,&#8230;</p><p>L'article <a href="http://actus.publika.fr/2013/01/une-communication-globale-pour-boulangerie-ange/">UNE COMMUNICATION GLOBALE POUR BOULANGERIE ANGE !</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p>Les <a title="Boulangerie Ange" href="http://www.boulangerie-ange.fr/" target="_blank">boulangeries Ange</a>, permettez-nous l’expression, poussent comme des petits pains ! En un an, ce ne sont pas moins d’une dizaine de nouvelles boulangeries qui ont ouvertes en France. Une ascension qui nous rend fiers car nous avons pu les accompagner dans ce parcours tout au long de cette année ! A ce jour, 19 boulangeries représentent la marque Ange aux 4 coins de la France.</p>
+<p>A notre premier contact, les boulangeries Ange n’étaient pas vraiment connues mais les choses ont bien changé ! Détaillons ce parcours à travers leur communication.</p>
+<h2>La communication papier</h2>
+<p>Notre collaboration a, tout d’abord, débuté avec l’harmonisation de leur charte graphique : choix d’un logo parmi plusieurs déjà existants, reprise du logo tampon,&#8230; Une fois tout établi, nous avons créé de nombreux flyers : flyers d’ouverture, flyers évènementiels pour, par exemple, la fête des mères, Noël ou encore l’Epiphanie, ainsi que des flyers de communication sur l’utilisation de la farine CRC « Culture et Ressources Contrôlées ».</p>
+<p>L’agence de communication Publika s’est aussi occupée de designer las boites à pizzas pour les mettre aux couleurs d’Ange mais aussi la création de sacs Ange à distribuer aux clients.</p>
+<h2>Le site web</h2>
+<p>Le point de départ de la communication internet des boulangeries Ange fut le site internet. Il était important qu’Ange prenne place sur la toile pour se faire connaître et améliorer sa visibilité.</p>
+<p>Leur site web est volontairement simple et épuré et ce ne sont pas leurs produits qui sont le plus mis en avant mais leurs engagements qui leur tiennent grandement à cœur !</p>
+<p>Le slogan d’Ange : « Ange c’est 3 fois meilleur ! » Pourquoi ? Tout simplement parce qu’Ange tient à ce que tous ses produits soient meilleurs en goût, conçus dans le respect de l’environnement et de la santé de ses clients.</p>
+<p>On peut aussi retrouver, sur le site, un moteur de recherche basé sur la géolocalisation a été développé pour permettre aux internautes de trouver les boulangeries Ange proches de chez eux.</p>
+<h2>Le référencement naturel</h2>
+<p>Afin de travailler leur visibilité sur internet, tout un travail de référencement naturel est effectué sur le site web de Boulangerie Ange sur des requêtes correspondants à la localisation d’implantation des toutes les boulangeries de France.</p>
+<p>Le résultat ? En un an, le site web a augmenté son trafic de façon très croissante passant de moins de 1000 visites à plus de 4000 dont plus de 2/3 sont issues des moteurs de recherche.</p>
+<h2>Les réseaux sociaux</h2>
+<p>Un autre souhait des boulangeries Ange était de se rapprocher de ses clients, d’interagir avec eux, connaître leurs avis,&#8230; Pour se faire, nous avons donc mis en place une stratégie réseaux sociaux sur Facebook et Dismoioù. A ce jour, une communauté de plus de 1000 fans s’est construite sur Facebook avec des interactions quotidiennes (j’aime, commentaires, partages,&#8230;). Les fans peuvent suivre toute l’actualité de la marque : nouvelles ouvertures, anniversaire, promotions, conseils culinaires,&#8230;</p>
+<p>L'article <a href="http://actus.publika.fr/2013/01/une-communication-globale-pour-boulangerie-ange/">UNE COMMUNICATION GLOBALE POUR BOULANGERIE ANGE !</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2013/01/une-communication-globale-pour-boulangerie-ange/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>OFFRE DECOUVERTE RESEAUX SOCIAUX</title>
+		<link>http://actus.publika.fr/2013/01/offre-decouverte-reseaux-sociaux/</link>
+		<comments>http://actus.publika.fr/2013/01/offre-decouverte-reseaux-sociaux/#comments</comments>
+		<pubDate>Tue, 22 Jan 2013 15:22:23 +0000</pubDate>
+		<dc:creator>Cindy</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=1127</guid>
+		<description><![CDATA[<p>Vous entendez parler des réseaux sociaux, vous écoutez mais vous ne comprenez toujours pas l’intérêt pour votre business ? Cet univers vous semble inaccessible ou bien mystérieux car vous ne savez pas sur quel réseau être présent, comment les animer ou encore comment vous faire connaitre auprès des utilisateurs et construire votre communauté. C’est pour répondre à toutes ses questions que Publika vous propose l’offre découverte réseaux sociaux ! A savoir : Les réseaux sociaux vous permettent notamment : Le développement de la visibilité de votre entreprise sur internet Une plus grande proximité avec vos clients et prospects De vous constituer une base de CV pour recruter de nouveaux collaborateurs &#160; Que vous apporte cette offre ? L’un de nos experts étudie les réseaux sociaux les plus pertinents par rapport à votre activité mais aussi par rapport à vos besoins, objectifs et ressources internes. Une fois identifiés, passez du temps avec l’un de nos experts qui vous accompagnera pour que vous compreniez, de vous-même, comment prendre en main efficacement les réseaux sociaux*. (*possibilité de prise en charge de la formation par votre Opca.)</p><p>L'article <a href="http://actus.publika.fr/2013/01/offre-decouverte-reseaux-sociaux/">OFFRE DECOUVERTE RESEAUX SOCIAUX</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p>Vous entendez parler des réseaux sociaux, vous écoutez mais vous ne comprenez toujours pas l’intérêt pour votre business ? Cet univers vous semble inaccessible ou bien mystérieux car vous ne savez pas sur quel réseau être présent, comment les animer ou encore comment vous faire connaitre auprès des utilisateurs et construire votre communauté.</p>
+<p>C’est pour répondre à toutes ses questions que Publika vous propose l’<a title="Offre découverte reseaux sociaux - Publika" href="http://actus.publika.fr/2013/01/offre-reseaux-sociaux/" target="_blank">offre découverte réseaux sociaux</a> !</p>
+<p><span style="text-decoration: underline;"><em><strong>A savoir :</strong></em></span></p>
+<p>Les réseaux sociaux vous permettent notamment :</p>
+<ul>
+<li>Le développement de la visibilité de votre entreprise sur internet</li>
+<li>Une plus grande proximité avec vos clients et prospects</li>
+<li>De vous constituer une base de CV pour recruter de nouveaux collaborateurs</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><em><strong>Que vous apporte cette offre ?</strong></em></span></p>
+<p>L’un de nos experts étudie les réseaux sociaux les plus pertinents par rapport à votre activité mais aussi par rapport à vos besoins, objectifs et ressources internes. Une fois identifiés, passez du temps avec l’un de nos experts qui vous accompagnera pour que vous compreniez, de vous-même, comment prendre en main efficacement les réseaux sociaux*.</p>
+<p>(*<em>possibilité de prise en charge de la formation par votre Opca.</em>)</p>
+<p>L'article <a href="http://actus.publika.fr/2013/01/offre-decouverte-reseaux-sociaux/">OFFRE DECOUVERTE RESEAUX SOCIAUX</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2013/01/offre-decouverte-reseaux-sociaux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Offre applications mobiles</title>
+		<link>http://actus.publika.fr/2013/01/offre-applications-mobiles/</link>
+		<comments>http://actus.publika.fr/2013/01/offre-applications-mobiles/#comments</comments>
+		<pubDate>Mon, 21 Jan 2013 17:18:07 +0000</pubDate>
+		<dc:creator>Cindy</dc:creator>
+				<category><![CDATA[Nos offres]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=1110</guid>
+		<description><![CDATA[<p>Pourquoi avoir une application mobile pour une entreprise ? 15% de réduction sur votre application mobile pour toute validation de devis avant le 28 Février 2013 Ils nous font confiance</p><p>L'article <a href="http://actus.publika.fr/2013/01/offre-applications-mobiles/">Offre applications mobiles</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p><img src="http://actus.publika.fr/wp-content/uploads/2013/01/bandeau-mobile.jpg" alt="Offre applications mobiles" /></p>
+<div class="stunning-text-wrapper">
+<h1 class="stunning-text-title">Pourquoi avoir une application mobile pour une entreprise ?</h1>
+<h2><span style="color: #a40049; font-weight: bold;">15% de réduction sur votre application mobile pour toute validation de devis avant le 28 Février 2013</span></h2>
+<div class="clear"></div>
+</div>
+<div class="gdl-header-wrapper">
+<h3 class="gdl-header-title">Ils nous font confiance</h3>
+<div class="gdl-header-gimmick right" style="width: 100%; height: 33px;"></div>
+<div class="clear"></div>
+</div>
+<p><img class="aligncenter size-full wp-image-610" title="reference-emailing" src="http://www.actus.publika.fr/wp-content/uploads/2012/10/reference-emailing.jpg" alt="" width="940" height="115" /></p>
+<div class="shortcode1-2 ">
+<div class="gdl-header-wrapper">
+<h3 class="gdl-header-title">Les plus Publika</h3>
+<div class="gdl-header-gimmick right" style="width: 100%; height: 33px;"></div>
+<div class="clear"></div>
+</div>
+<div class="shortcode-list bullet3">
+<ul>
+<li>Un interlocuteur dédié</li>
+<li>Conseil fonctionnel et technique lors de l&rsquo;élaboration du devis</li>
+<li>Développement spécifique correspondant à vos besoins</li>
+<li>La promotion de votre application par notre équipe spécialisée dans le webmarketing</li>
+</ul>
+</div>
+<div class="clear" style=" height:50px;" ></div>
+<div class="gdl-header-wrapper">
+<h3 class="gdl-header-title">Témoignage</h3>
+<div class="gdl-header-gimmick right" style="width: 100%; height: 33px;"></div>
+<div class="clear"></div>
+</div>
+<div class="gdl-carousel-testimonial">
+<div class="testimonial-navigation">
+<div class="testimonial-prev"></div>
+<div class="testimonial-next"></div>
+</div>
+<div class="testimonial-item-wrapper">
+<div class="testimonial-item">
+<div class="testimonial-content">Publika est un allié de poids pour nous aider dans notre démarche active sur le WEB et INTRANET.</p>
+<p>Si je devais définir leur équipe en un seul mot , au-delà de leurs compétences , leur REACTIVITE , qualité rare mais indispensable pour la compétitivité de notre entreprise.<br />
+</br></div>
+<div class="testimonial-info"><span class="testimonial-author">- Familia Investissements</span><span class="testimonial-position">, Stephanie Valaize - Responsable communication/marketing</span></div>
+</div>
+<div class="testimonial-item">
+<div class="testimonial-content"><em>La relation entre PUBLIKA et AUTOSECURITAS  s’est révélée parfaitement adaptée à notre besoin très fort de mise en valeur de notre image. Notre souhait d’accompagnement progressif et d’écoute du client a été scrupuleusement respecté, ce qui constitue pour nous un gage de professionnalisme générateur de confiance.</em><br />
+</br></div>
+<div class="testimonial-info"><span class="testimonial-author">- AutoSecuritas</span><span class="testimonial-position">, Eric FELTEN, directeur général AUTOSECURITAS</span></div>
+</div>
+<div class="testimonial-item">
+<div class="testimonial-content">J’ai contacté Publika il y a 8 mois. J’ai déjà été étonné d’avoir une réponse rapidement et surtout détaillée à ma demande. Suite au premier rendez-vous, très enrichissant, je suis ressorti galvanisé par leur dynamisme et leur approche sur mesure.</p>
+<p>Même si cela fait peu de temps que nous travaillons ensemble, j’ai trouvé chez Publika bien plus que des « vendeurs » de sites internet ou autre pub. Ce sont de vrais partenaires, qui ont su cerner mes besoins et savent s’adapter à la taille de l’entreprise (et du budget !).</p>
+<p>Je les recommande vivement !<br />
+</br></div>
+<div class="testimonial-info"><span class="testimonial-author">- Reussite</span><span class="testimonial-position">, Cédric Trossier</span></div>
+</div>
+<div class="testimonial-item">
+<div class="testimonial-content">Je remercie vivement l'équipe de Publika qui a su, par trois fois, faire preuve de réactivité et d'un esprit artistique digne des plus grands.<br />
+Les affiches et le logo sont d'excellente qualité, c'est du grand Art, incontestablement le fruit d'un travail d'équipe.<br />
+Un grand MERCI !<br />
+</br></div>
+<div class="testimonial-info"><span class="testimonial-author">- NTTC France</span><span class="testimonial-position">, Christian Goblas</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="shortcode1-2 last">
+<div class="gdl-header-wrapper">
+<h3 class="gdl-header-title" style="color: #a40049;">Devis gratuit sous 48h</h3>
+<div class="gdl-header-gimmick right" style="width: 100%; height: 33px;"></div>
+<div class="clear"></div>
+</div>
+<p>[contact-form-7]
+</p></div>
+<div class="clear"></div>
+<p>L'article <a href="http://actus.publika.fr/2013/01/offre-applications-mobiles/">Offre applications mobiles</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2013/01/offre-applications-mobiles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Offre réseaux sociaux</title>
+		<link>http://actus.publika.fr/2013/01/offre-reseaux-sociaux/</link>
+		<comments>http://actus.publika.fr/2013/01/offre-reseaux-sociaux/#comments</comments>
+		<pubDate>Mon, 21 Jan 2013 16:38:45 +0000</pubDate>
+		<dc:creator>Cindy</dc:creator>
+				<category><![CDATA[Nos offres]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=1080</guid>
+		<description><![CDATA[<p>Comprendre comment on peut créer des interactions clients ! 3h de découverte réseaux sociaux pour 240€(*) Ils nous font confiance</p><p>L'article <a href="http://actus.publika.fr/2013/01/offre-reseaux-sociaux/">Offre réseaux sociaux</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p><img src="http://actus.publika.fr/wp-content/uploads/2013/01/bandeau-promo-Réseaux-Sociaux.jpg" alt="Offre Reseaux sociaux" /></p>
+<div class="stunning-text-wrapper">
+<h1 class="stunning-text-title">Comprendre comment on peut créer des interactions clients !</h1>
+<h2><span style="color: #a40049; font-weight: bold;">3h de découverte réseaux sociaux pour 240€(*)</span></h2>
+<div class="clear"></div>
+</div>
+<div class="gdl-header-wrapper">
+<h3 class="gdl-header-title">Ils nous font confiance</h3>
+<div class="gdl-header-gimmick right" style="width: 100%; height: 33px;"></div>
+<div class="clear"></div>
+</div>
+<p><img class="aligncenter size-full wp-image-610" title="reference-emailing" src="http://www.actus.publika.fr/wp-content/uploads/2012/10/reference-emailing.jpg" alt="" width="940" height="115" /></p>
+<div class="shortcode1-2 ">
+<div class="gdl-header-wrapper">
+<h3 class="gdl-header-title">Les plus Publika</h3>
+<div class="gdl-header-gimmick right" style="width: 100%; height: 33px;"></div>
+<div class="clear"></div>
+</div>
+<div class="shortcode-list bullet3">
+<ul>
+<li>Un interlocuteur dédié</li>
+<li>Identifier le ou les réseaux sociaux pertinents pour votre entreprise</li>
+<li>Une première prise en main du ou des réseaux sociaux sélectionnés</li>
+<li>Des réponses à toutes vos interrogations sur les réseaux sociaux</li>
+<li>Une proposition de stratégie adaptée à votre thématique et vos objectifs</li>
+</ul>
+</div>
+<div class="clear" style=" height:50px;" ></div>
+<div class="gdl-header-wrapper">
+<h3 class="gdl-header-title">Témoignage</h3>
+<div class="gdl-header-gimmick right" style="width: 100%; height: 33px;"></div>
+<div class="clear"></div>
+</div>
+<div class="gdl-carousel-testimonial">
+<div class="testimonial-navigation">
+<div class="testimonial-prev"></div>
+<div class="testimonial-next"></div>
+</div>
+<div class="testimonial-item-wrapper">
+<div class="testimonial-item">
+<div class="testimonial-content">Publika est un allié de poids pour nous aider dans notre démarche active sur le WEB et INTRANET.</p>
+<p>Si je devais définir leur équipe en un seul mot , au-delà de leurs compétences , leur REACTIVITE , qualité rare mais indispensable pour la compétitivité de notre entreprise.<br />
+</br></div>
+<div class="testimonial-info"><span class="testimonial-author">- Familia Investissements</span><span class="testimonial-position">, Stephanie Valaize - Responsable communication/marketing</span></div>
+</div>
+<div class="testimonial-item">
+<div class="testimonial-content"><em>La relation entre PUBLIKA et AUTOSECURITAS  s’est révélée parfaitement adaptée à notre besoin très fort de mise en valeur de notre image. Notre souhait d’accompagnement progressif et d’écoute du client a été scrupuleusement respecté, ce qui constitue pour nous un gage de professionnalisme générateur de confiance.</em><br />
+</br></div>
+<div class="testimonial-info"><span class="testimonial-author">- AutoSecuritas</span><span class="testimonial-position">, Eric FELTEN, directeur général AUTOSECURITAS</span></div>
+</div>
+<div class="testimonial-item">
+<div class="testimonial-content">J’ai contacté Publika il y a 8 mois. J’ai déjà été étonné d’avoir une réponse rapidement et surtout détaillée à ma demande. Suite au premier rendez-vous, très enrichissant, je suis ressorti galvanisé par leur dynamisme et leur approche sur mesure.</p>
+<p>Même si cela fait peu de temps que nous travaillons ensemble, j’ai trouvé chez Publika bien plus que des « vendeurs » de sites internet ou autre pub. Ce sont de vrais partenaires, qui ont su cerner mes besoins et savent s’adapter à la taille de l’entreprise (et du budget !).</p>
+<p>Je les recommande vivement !<br />
+</br></div>
+<div class="testimonial-info"><span class="testimonial-author">- Reussite</span><span class="testimonial-position">, Cédric Trossier</span></div>
+</div>
+<div class="testimonial-item">
+<div class="testimonial-content">Je remercie vivement l'équipe de Publika qui a su, par trois fois, faire preuve de réactivité et d'un esprit artistique digne des plus grands.<br />
+Les affiches et le logo sont d'excellente qualité, c'est du grand Art, incontestablement le fruit d'un travail d'équipe.<br />
+Un grand MERCI !<br />
+</br></div>
+<div class="testimonial-info"><span class="testimonial-author">- NTTC France</span><span class="testimonial-position">, Christian Goblas</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="shortcode1-2 last">
+<div class="gdl-header-wrapper">
+<h3 class="gdl-header-title" style="color: #a40049;">Devis gratuit sous 48h</h3>
+<div class="gdl-header-gimmick right" style="width: 100%; height: 33px;"></div>
+<div class="clear"></div>
+</div>
+<p>[contact-form-7]
+</p></div>
+<div class="clear"></div>
+<p>L'article <a href="http://actus.publika.fr/2013/01/offre-reseaux-sociaux/">Offre réseaux sociaux</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/admin/">Cindy</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2013/01/offre-reseaux-sociaux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Youtube se met à jour !</title>
+		<link>http://actus.publika.fr/2013/01/youtube-se-met-a-jour/</link>
+		<comments>http://actus.publika.fr/2013/01/youtube-se-met-a-jour/#comments</comments>
+		<pubDate>Fri, 04 Jan 2013 10:01:26 +0000</pubDate>
+		<dc:creator>Pauline</dc:creator>
+				<category><![CDATA[Décryptage]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=1010</guid>
+		<description><![CDATA[<p>Youtube est la référence de la vidéo en ligne que l’on ne présente plus. Après avoir proposé une toute nouvelle interface en version bêta test  fin 2011, Youtube met en ligne, un an plus tard, la nouvelle version définitive de celle-ci, centrée autour d’un système de « chaînes 3.5 » reliant les utilisateurs. Google e(s)t Youtube En effet, depuis le rachat de Youtube par Google en 2006 (au minuscule prix de 1.65 milliard de dollars), le site suit désormais les normes de son nouveau propriétaire, qui a réorganisé sa stratégie depuis quelques années autour de «l’appartenance», dans l&#8217;objectif de faire face à Facebook, son unique rival. Ainsi, les comptes utilisateurs Google sont devenus de plus en plus complets et personnalisables (le tout en un). Par exemple, toutes les données des comptes Youtube sont aujourd’hui automatiquement synchronisées à votre compte Google. Le rhabillage Les plus gros changements ont eu principalement lieu sur la page d’accueil : Suggestions de vidéos en page d’accueil susceptibles de nous intéresser (basées sur notre historique de vidéos vues) Abonnement à des chaines d’autres utilisateurs Abonnement à des chaines de thématiques (musique, sport jeux vidéo etc..) Synchronisation à vos comptes Twitter, Facebook et Google+ Personnalisation d’apparence et de confidentialité de vos chaines Il y également quelques changements à notifier sur les pages vidéos, même si les fonctionnalités ont été quasi toutes conservées. Nous remarquons qu’il est désormais possible de s’abonner directement à la chaîne de la vidéo de façon très simple via un encart très visible. Les autres informations, auparavant sous la vidéo, ont été remplacées par des onglets au design beaucoup plus épurés, comprenant les informations sur la vidéo, la possibilité de la partager sur d’autres sites, l’ajout de la vidéo aux playlists, les statistiques, .. Optimisation pour les nouveaux supports Lors de sa dernière mise à jour, Youtube en a également profité pour optimiser son interface pour les tablettes et Smartphones (utilisation des media queries). Sur la page d’accueil, la navigation se fait désormais grâce à un menu de gauche et non plus le fil central d’avant afin de faciliter la navigation pour les petits écrans, le lecteur a également été optimisé pour diminuer les temps de chargement et augmenter la qualité sonore. Beaucoup d’utilisateurs restent sur la défensive vis-à-vis de cette nouvelle version, principalement du fait des bouleversements des habitudes que cela provoque, à voir si les opinions changeront au fil du temps .. Quelques chiffres : Pour clôturer cet article et démontrer une nouvelle fois la puissance de Youtube, vous trouverez ci-dessous quelques gros buzzs de 2012 : &#171;&#160;Gangnam Style&#160;&#187; de PSY compte depuis sa soritie (il y a seulement 5 mois) 1 milliard de vues . Ce clip a battu le record du plus grand nombre de vues dans toute l’histoire du réseau. Comme beaucoup de gros succès, la chorégraphie aura notamment donné inspiration à beaucoup de personnes qui ont réalisé leurs propres vidéos/parodies/ ou encore flash mob &#171;&#160;Call me maybe&#160;&#187; de Carly Rae Jepsen, 369 millions de vues. Qui n’a pas entendu en boucle cette musique tout cet été ? Egalement beaucoup de dérivations de cette vidéo ont été réalisées. Le montage d’Obama : http://www.youtube.com/watch?v=hX1YVzdnpEc Le grand saut supersonique de Felix Baumgartner : un record historique, surement l’évènement sportif le plus marquant de 2012 : 5 223 713 de vues Enfin, le dernier petit succès de Youtube est Piou Piou, ce petit poussin qui chante en yaourt (et qui vous reste en tête pour le reste de la journée) qui a recensé en l’espace d’une semaine plus de 6 millions de vues ! &#160; En résumé, nous pouvons confirmer que la plateforme de vidéos en ligne vient de prendre une toute nouvelle direction, et est devenue en l’espace de quelques mois un véritable réseau social, en plus d’être le troisième site le plus visité par les Français, et un tremplin de notoriété pour toutes les innovations, buzzs et LE lieu d’échanges avec le reste du monde.</p><p>L'article <a href="http://actus.publika.fr/2013/01/youtube-se-met-a-jour/">Youtube se met à jour !</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/pauline/">Pauline</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p style="text-align: justify;">Youtube est la référence de la vidéo en ligne que l’on ne présente plus. Après avoir proposé une toute nouvelle interface en version bêta test  fin 2011, Youtube met en ligne, un an plus tard, la nouvelle version définitive de celle-ci, centrée autour d’un système de « chaînes 3.5 » reliant les utilisateurs.</p>
+<h2 style="text-align: justify;">Google e(s)t Youtube</h2>
+<p style="text-align: justify;">En effet, depuis le rachat de Youtube par Google en 2006 (au minuscule prix de 1.65 milliard de dollars), le site suit désormais les normes de son nouveau propriétaire, qui a réorganisé sa stratégie depuis quelques années autour de «l’appartenance», dans l&rsquo;objectif de faire face à Facebook, son unique rival. Ainsi, les comptes utilisateurs Google sont devenus de plus en plus complets et personnalisables (le tout en un). Par exemple, toutes les données des comptes Youtube sont aujourd’hui automatiquement synchronisées à votre compte Google.</p>
+<h2 style="text-align: justify;">Le rhabillage</h2>
+<p style="text-align: justify;">Les plus gros changements ont eu principalement lieu sur la page d’accueil :</p>
+<ul style="text-align: justify;">
+<li>Suggestions de vidéos en page d’accueil susceptibles de nous intéresser (basées sur notre historique de vidéos vues)</li>
+<li>Abonnement à des chaines d’autres utilisateurs</li>
+<li>Abonnement à des chaines de thématiques (musique, sport jeux vidéo etc..)</li>
+<li>Synchronisation à vos comptes Twitter, Facebook et Google+</li>
+<li>Personnalisation d’apparence et de confidentialité de vos chaines</li>
+</ul>
+<p style="text-align: justify;">Il y également quelques changements à notifier sur les pages vidéos, même si les fonctionnalités ont été quasi toutes conservées.</p>
+<p style="text-align: justify;">Nous remarquons qu’il est désormais possible de s’abonner directement à la chaîne de la vidéo de façon très simple via un encart très visible.</p>
+<p style="text-align: justify;">Les autres informations, auparavant sous la vidéo, ont été remplacées par des onglets au design beaucoup plus épurés, comprenant les informations sur la vidéo, la possibilité de la partager sur d’autres sites, l’ajout de la vidéo aux playlists, les statistiques, ..</p>
+<p style="text-align: center;"><img class="aligncenter" title="Youtube" src="http://actus.publika.fr/wp-content/uploads/2013/01/Capture-youtube-video.jpg" alt="Youtube" width="640" height="351" /></p>
+<h2>Optimisation pour les nouveaux supports</h2>
+<p style="text-align: justify;">Lors de sa dernière mise à jour, Youtube en a également profité pour optimiser son interface pour les tablettes et Smartphones (utilisation des media queries).</p>
+<p style="text-align: justify;">Sur la page d’accueil, la navigation se fait désormais grâce à un menu de gauche et non plus le fil central d’avant afin de faciliter la navigation pour les petits écrans, le lecteur a également été optimisé pour diminuer les temps de chargement et augmenter la qualité sonore.</p>
+<p style="text-align: justify;">Beaucoup d’utilisateurs restent sur la défensive vis-à-vis de cette nouvelle version, principalement du fait des bouleversements des habitudes que cela provoque, à voir si les opinions changeront au fil du temps ..</p>
+<h2>Quelques chiffres :</h2>
+<p style="text-align: justify;">Pour clôturer cet article et démontrer une nouvelle fois la puissance de Youtube, vous trouverez ci-dessous quelques gros buzzs de 2012 :</p>
+<ul>
+<li>&laquo;&nbsp;Gangnam Style&nbsp;&raquo; de PSY compte depuis sa soritie (il y a seulement 5 mois) 1 milliard de vues . Ce clip a battu le record du plus grand nombre de vues dans toute l’histoire du réseau. Comme beaucoup de gros succès, la chorégraphie aura notamment donné inspiration à beaucoup de personnes qui ont réalisé leurs propres vidéos/parodies/ ou encore flash mob</li>
+<li>&laquo;&nbsp;Call me maybe&nbsp;&raquo; de Carly Rae Jepsen, 369 millions de vues. Qui n’a pas entendu en boucle cette musique tout cet été ? Egalement beaucoup de dérivations de cette vidéo ont été réalisées.</li>
+<li>Le montage d’Obama : http://www.youtube.com/watch?v=hX1YVzdnpEc</li>
+<li>Le grand saut supersonique de Felix Baumgartner : un record historique, surement l’évènement sportif le plus marquant de 2012 : 5 223 713 de vues</li>
+<li>Enfin, le dernier petit succès de Youtube est Piou Piou, ce petit poussin qui chante en yaourt (et qui vous reste en tête pour le reste de la journée) qui a recensé en l’espace d’une semaine plus de 6 millions de vues !</li>
+</ul>
+<p>&nbsp;</p>
+<p style="text-align: justify;">En résumé, nous pouvons confirmer que la plateforme de vidéos en ligne vient de prendre une toute nouvelle direction, et est devenue en l’espace de quelques mois un véritable réseau social, en plus d’être le troisième site le plus visité par les Français, et un tremplin de notoriété pour toutes les innovations, buzzs et LE lieu d’échanges avec le reste du monde.</p>
+<p>L'article <a href="http://actus.publika.fr/2013/01/youtube-se-met-a-jour/">Youtube se met à jour !</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/pauline/">Pauline</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2013/01/youtube-se-met-a-jour/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Le contenu, la meilleure arme pour rendre ses photos visibles sur Google (Partie 2)</title>
+		<link>http://actus.publika.fr/2012/12/le-contenu-la-meilleure-arme-pour-rendre-ses-photos-visibles-sur-google-partie-2/</link>
+		<comments>http://actus.publika.fr/2012/12/le-contenu-la-meilleure-arme-pour-rendre-ses-photos-visibles-sur-google-partie-2/#comments</comments>
+		<pubDate>Fri, 28 Dec 2012 10:27:40 +0000</pubDate>
+		<dc:creator>Daniel</dc:creator>
+				<category><![CDATA[Photographie]]></category>
+
+		<guid isPermaLink="false">http://actus.publika.fr/?p=991</guid>
+		<description><![CDATA[<p>Inlassablement Google cherche à améliorer son algorithme afin de proposer aux internautes les meilleurs résultats de recherche possibles. Pourquoi « Google » agit ainsi ? Parce que tout simplement, pendant longtemps, il était possible de créer un nombre volumineux de pages pour un site internet (sans forcément tenir compte de la qualité et cohérence du contenu) ou obtenir des backlinks ou liens entrants (liens mis en place par un site internet vers un autre site internet) de piètre qualité et vous vous retrouviez parmi les meilleurs résultats de recherche. Mais avec les mises à jour récentes effectuées par Google (Panda, Penguin, Orca, etc), ces actions sont à bannir de votre stratégie de référencement. Soyez simple tout en ayant pour objectif le besoin de l’internaute. Posez-vous comme questions et sans relâche: • Que pourrais-je mettre sur mon site qui pourrait susciter son attention ? • Quelles informations pourront lui être utiles ? • Quelles images pourraient le captiver et l’inciter à les partager ? En répondant à cela vous vous rendrez compte que vous aurez de la matière à proposer sur votre site Internet. Exemple : Le photographe Vincent LAFORET « joue » beaucoup sur les informations utiles aux photographes. Chacun de ses articles génèrent une multitude de commentaires et des backlinks de qualité, tout ce dont Google raffole. A. Comment cibler vos mots clés ? J’énonçais plus haut qu’il fallait dans un premier temps vous poser plusieurs questions avant d’orienter votre stratégie. Mais en tant que photographe, la première chose à faire pour vous sera de déterminer le ou les types de photos que vous comptez présenter à votre public. Pour ma part, je serai aux Anges si mon site internet se positionnait en première position sur « photographe de mariage » ou « photographe animalier ». Mais avec du recul ce ne serait pas forcément productif et intéressant pour moi si tel était le cas. Je m’explique. Une première position sur ce mot clé très concurrentiel apporterait évidemment du trafic mais maintenir ce même positionnement sur la durée nécessiterait un travail conséquent (donc du temps que vous n’avez pas forcément à moins de faire appel à un expert en référencement comme Publika ) et ne m’apporterait pas forcément du trafic qualifié. Pourquoi ? Prenons l’exemple du photographe vivant et exerçant son activité à Montpellier. Celui-ci possède un site internet et n’est positionné sur les moteurs de recherche que sur « Photographe Mariage ». Malgré cette performance SEO, elle ne présentera aucun intérêt pour les internautes vivant sur Montpellier et cherchant désespérément un photographe dans leur ville. Ce photographe aura donc tout intérêt à se concentrer sur sa région et se positionner sur l’expression « Photographe Montpellier ». L’avantage est double, en effet, non seulement la masse de travail pour se positionner sur un « petit mot clé » (le terme le plus approprié serait plutôt « queue de longue traîne ») est moindre et qui plus est, vous augmenterez parallèlement à cela le nombre d’internautes susceptibles d’être intéressées par vos prestations. Afin de vous aider à orienter votre référencement, Google propose pour cela un outil particulièrement intéressant pour vous donner des idées de mots clés ou en évaluer la pertinence (nombre de fois où ce mot clé est recherché par les internautes) : Google Keyword B. Optimisez vos photos pour le référencement L’une des erreurs que les photographes commettent souvent est de publier intégralement leurs photos sans adjoindre de contenu, soit par manque de temps ou tout simplement parce que nous pensons qu’une image vaut bien mieux que milles mots ! Pour « Google », il en est autrement, n’oubliez pas que pour l’instant son algorithme ne possède pas encore de fibre artistique ou de yeux photographiques. Il faut donc l’aider à voir ce que nous voyant afin qu’il positionne vos photos dans les meilleures positions en fonction des recherches demandées. Pour cela, décrivez systématiquement vos photos. Rappelez : • le contexte dans lequel a été effectuée la photo. • ce que vous souhaitez faire ressentir à travers cette photo • comment avez-vous procédé pour la préparation • comment avez-vous rassuré le modèle avant la prise de vue (difficile si c’est de la photo animalière:)) • date de prises de vue • comment a-t-elle été réalisée ? • les difficultés particulières rencontrées • le boitier ou les focales utilisés • les paramètres de prises de vue (ouverture, vitesse, ISO ) L’addition de toutes ces informations vous permettra non seulement d’obtenir un contenu unique pour chacune de vos photos et vous permettra également d’inclure des mots clés dans ce même contenu. (photographie de mariage réalisée sur Montpellier, photographie de mariage sur Montpellier réalisée par Georges Daniel, Réalisation : Georges daniel photographe sur Montpellier, etc) Google Images est votre Ami Google images est une source de trafic qui effraie souvent bon nombre d’internautes ou de photographes (peur de se faire voler des images). Mais en négligeant cette source de trafic vous ne saisirez pas l’opportunité de générer du trafic. Une photo originale ou de qualité positionnée sur la première ligne de Google Images vous apportera indéniablement des visites. Afin d’optimiser vos images, il vous faudra obligatoirement inclure les mots clés qui correspondent à la description de l’image. Comment ? En les incluant dans le titre, le texte de remplacement ou alternatif des images. La plupart des CMS le propose mais si vous codez tout à la main voici les balises à remplir alt=&#160;&#187;mot cle&#160;&#187; src=&#160;&#187;mot-cle.jpg&#160;&#187; title=&#160;&#187;mot cle&#160;&#187;. Exemple sur WordPress : Ainsi, en possédant une image bien décrite (balise alt ou texte de remplacement, title, etc) accompagnée d’un joli contenu vous augmenterez vos chances de visibilité. J’espère avoir pu vous apporter quelques éléments de réflexion pour améliorer le référencement de votre site Internet sur les moteurs de recherche et en particulier sur Google. Référencer un site Internet est un processus long et qui nécessite un travail acharné. Tout comme en Formule 1, dans le référencement, la pôle position est une place qui se mérite. En revanche ne parcourez pas aussi vite que Sebastian Vettel [...]</p><p>L'article <a href="http://actus.publika.fr/2012/12/le-contenu-la-meilleure-arme-pour-rendre-ses-photos-visibles-sur-google-partie-2/">Le contenu, la meilleure arme pour rendre ses photos visibles sur Google (Partie 2)</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/daniel/">Daniel</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p>Inlassablement Google cherche à améliorer son algorithme afin de proposer aux internautes les meilleurs résultats de recherche possibles.</p>
+<p>Pourquoi « Google » agit ainsi ? Parce que tout simplement, pendant longtemps, il était possible de créer un nombre volumineux de pages pour un site internet (sans forcément tenir compte de la qualité et cohérence du contenu) ou obtenir des backlinks ou liens entrants (liens mis en place par un site internet vers un autre site internet) de piètre qualité et vous vous retrouviez parmi les meilleurs résultats de recherche.</p>
+<p>Mais avec les mises à jour récentes effectuées par Google (Panda, Penguin, Orca, etc), ces actions sont à bannir de votre stratégie de référencement. Soyez simple tout en ayant pour objectif le besoin de l’internaute.</p>
+<p><strong>Posez-vous comme questions et sans relâche:</strong></p>
+<p>• Que pourrais-je mettre sur mon site qui pourrait susciter son attention ?<br />
+• Quelles informations pourront lui être utiles ?<br />
+• Quelles images pourraient le captiver et l’inciter à les partager ?</p>
+<p>En répondant à cela vous vous rendrez compte que vous aurez de la matière à proposer sur votre site Internet.</p>
+<p><img src="http://actus.publika.fr/wp-content/uploads/2012/12/screen-vincent-laforet.png" alt="" width="575" height="574" /><br />
+<em></em></p>
+<p><em>Exemple : Le <a title="photographe Vincent Laforet" href="http://blog.vincentlaforet.com/" rel="nofollow" target="_blank">photographe Vincent LAFORET</a> « joue » beaucoup sur les informations utiles aux photographes. Chacun de ses articles génèrent une multitude de commentaires et des backlinks de qualité, tout ce dont Google raffole.</em></p>
+<p><strong>A. Comment cibler vos mots clés ?</strong></p>
+<p>J’énonçais plus haut qu’il fallait dans un premier temps vous poser plusieurs questions avant d’orienter votre stratégie. Mais en tant que photographe, la première chose à faire pour vous sera de déterminer le ou les types de photos que vous comptez présenter à votre public.</p>
+<p>Pour ma part, je serai aux Anges si mon site internet se positionnait en première position sur « photographe de mariage » ou « photographe animalier ». Mais avec du recul ce ne serait pas forcément productif et intéressant pour moi si tel était le cas. Je m’explique.</p>
+<p>Une première position sur ce mot clé très concurrentiel apporterait évidemment du trafic mais maintenir ce même positionnement sur la durée nécessiterait un travail conséquent (donc du temps que vous n’avez pas forcément à moins de faire appel à un <a title="expert en référencement" href="http://www.publika.fr" target="_blank">expert en référencement</a> comme Publika <img src='http://actus.publika.fr/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> ) et ne m’apporterait pas forcément du trafic qualifié. <strong>Pourquoi ?</strong></p>
+<p>Prenons l’exemple du photographe vivant et exerçant son activité à Montpellier. Celui-ci possède un site internet et n’est positionné sur les moteurs de recherche que sur « <strong>Photographe Mariage</strong> ».</p>
+<p>Malgré cette performance SEO, elle ne présentera aucun intérêt pour les internautes vivant sur Montpellier et cherchant désespérément un photographe dans leur ville.</p>
+<p>Ce photographe aura donc tout intérêt à se concentrer sur sa région et se positionner sur l’expression « Photographe Montpellier ». L’avantage est double, en effet, non seulement la masse de travail pour se positionner sur un « petit mot clé » (le terme le plus approprié serait plutôt « queue de longue traîne ») est moindre et qui plus est, vous augmenterez parallèlement à cela le nombre d’internautes susceptibles d’être intéressées par vos prestations.</p>
+<p>Afin de vous aider à orienter votre référencement, Google propose pour cela un outil particulièrement intéressant pour vous donner des idées de mots clés ou en évaluer la pertinence (nombre de fois où ce mot clé est recherché par les internautes) : Google Keyword</p>
+<p><img src="http://actus.publika.fr/wp-content/uploads/2012/12/adwords-photographe.png" alt="" width="625" height="295" /></p>
+<p><strong>B. Optimisez vos photos pour le référencement</strong></p>
+<p>L’une des erreurs que les photographes commettent souvent est de publier intégralement leurs photos sans adjoindre de contenu, soit par manque de temps ou tout simplement parce que nous pensons qu’<strong>une image vaut bien mieux que milles mots</strong> !</p>
+<p>Pour « Google », il en est autrement, n’oubliez pas que pour l’instant son algorithme ne possède pas encore de fibre artistique ou de yeux photographiques. Il faut donc l’aider à voir ce que nous voyant afin qu’il positionne vos photos dans les meilleures positions en fonction des recherches demandées.</p>
+<p>Pour cela, décrivez systématiquement vos photos. Rappelez :</p>
+<p>• le contexte dans lequel a été effectuée la photo.<br />
+• ce que vous souhaitez faire ressentir à travers cette photo<br />
+• comment avez-vous procédé pour la préparation<br />
+• comment avez-vous rassuré le modèle avant la prise de vue (difficile si c’est de la photo animalière:))<br />
+• date de prises de vue<br />
+• comment a-t-elle été réalisée ?<br />
+• les difficultés particulières rencontrées<br />
+• le boitier ou les focales utilisés<br />
+• les paramètres de prises de vue (ouverture, vitesse, ISO )</p>
+<p>L’addition de toutes ces informations vous permettra non seulement d’obtenir un contenu unique pour chacune de vos photos et vous permettra également d’inclure des mots clés dans ce même contenu. (photographie de mariage réalisée sur Montpellier, photographie de mariage sur Montpellier réalisée par Georges Daniel, Réalisation : Georges daniel photographe sur Montpellier, etc)</p>
+<p><strong>Google Images est votre Ami</strong></p>
+<p>Google images est une source de trafic qui effraie souvent bon nombre d’internautes ou de photographes (peur de se faire voler des images). Mais en négligeant cette source de trafic vous ne saisirez pas l’opportunité de générer du trafic. Une photo originale ou de qualité positionnée sur la première ligne de Google Images vous apportera indéniablement des visites.</p>
+<p>Afin d’optimiser vos images, il vous faudra obligatoirement inclure les mots clés qui correspondent à la description de l’image. Comment ? En les incluant dans le titre, le texte de remplacement ou alternatif des images. La plupart des CMS le propose mais si vous codez tout à la main voici les balises à remplir alt=&nbsp;&raquo;mot cle&nbsp;&raquo; src=&nbsp;&raquo;mot-cle.jpg&nbsp;&raquo; title=&nbsp;&raquo;mot cle&nbsp;&raquo;.</p>
+<p><strong>Exemple sur WordPress :</strong></p>
+<p><img src="http://actus.publika.fr/wp-content/uploads/2012/12/optimisation-photographe.png" alt="" width="584" height="608" /></p>
+<p>Ainsi, en possédant une image bien décrite (balise alt ou texte de remplacement, title, etc) accompagnée d’un joli contenu vous augmenterez vos chances de visibilité.</p>
+<p>J’espère avoir pu vous apporter quelques éléments de réflexion pour améliorer le référencement de votre site Internet sur les moteurs de recherche et en particulier sur Google.<br />
+Référencer un site Internet est un processus long et qui nécessite un travail acharné.</p>
+<p><strong>Tout comme en Formule 1, dans le référencement, la pôle position est une place qui se mérite.</strong></p>
+<p>En revanche ne parcourez pas aussi vite que Sebastian Vettel les différentes étapes évoquées le long de cet article (au risque de vous retrouvez hors piste):</p>
+<p>• Choix d’une plateforme optimisée SEO<br />
+• Réflexion sur le contenu et mots clés adaptés<br />
+• Optimisation des images et photos.<br />
+Je n’en ai pas parlé mais inclure les médias sociaux (Facebook, Pinterest, Behance, Flickr, 500px etc) est également un atout majeur dans votre stratégie de visibilité. Mais cela fera l’objet d’un nouvel article.</p>
+<p>Bonnes fêtes de fin d&rsquo;année à tous !</p>
+<p>L'article <a href="http://actus.publika.fr/2012/12/le-contenu-la-meilleure-arme-pour-rendre-ses-photos-visibles-sur-google-partie-2/">Le contenu, la meilleure arme pour rendre ses photos visibles sur Google (Partie 2)</a> vient d'être publié sur <a href="http://actus.publika.fr"></a> par <a rel="author" href="http://actus.publika.fr/author/daniel/">Daniel</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://actus.publika.fr/2012/12/le-contenu-la-meilleure-arme-pour-rendre-ses-photos-visibles-sur-google-partie-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

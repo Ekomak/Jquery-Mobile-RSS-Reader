@@ -1,0 +1,11 @@
+.titre {
+    text-transform: lowercase;
+}
+.titre:first-letter {
+    text-transform: capitalize;
+}
+
+img {
+ height:auto;
+ width:auto;
+ max-width:350px;
