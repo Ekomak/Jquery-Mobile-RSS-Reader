@@ -15,4 +15,4 @@ L'application est accompagnée d'un tutoriel que vous pouvez consulter sur le bl
 
 ##Problèmes connus
 
-L'appel Ajax n'ai pas possible en cross domaine via le navigateur Google Chrome. Vous pouvez utiliser Mozilla Firefox pour tester l'application sur votre poste.
+L'appel Ajax n'est pas possible en cross domaine via le navigateur Google Chrome. Vous pouvez utiliser Mozilla Firefox pour tester l'application sur votre poste.
